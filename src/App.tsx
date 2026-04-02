@@ -79,7 +79,9 @@ return (
       I am currently studying Bachelor of Science in Information Technology. 
       I enjoy learning how websites are built and how design and code work together. 
       I like creating projects that are simple, useful, and easy to understand. 
-      As a student, I am continuously improving my skills in HTML, CSS, JavaScript, React, and UI design.
+      As a student, I am continuously improving my skills in HTML, CSS, JavaScript, React, and UI design
+      with the help of online resources, tutorials, and practice projects. I dont hide the fact that I use ChatGPT to help me with my learning and projects, but I always make sure to understand the concepts and code behind it. 
+      I am excited to continue my journey in frontend development and create more amazing web projects in the future.
     </p>
 
   </div>
@@ -136,7 +138,7 @@ return (
           transition-all duration-300 ease-in-out hover:-translate-y-2 hover:scale-[1.02] hover:border-white/30 hover:shadow-[0_0_25px_rgba(255,255,255,0.18)]">
             <h3 className="text-xl font-semibold mb-3">Commnect Barangay Website</h3>
             <p className="text-slate-300 leading-7">
-              A community-based website project with pages for announcements,
+              A group project that focuses on creating a community-based website project with pages for announcements,
               contact details, and local information.
             </p>
           </div>
@@ -145,17 +147,15 @@ return (
           transition-all duration-300 ease-in-out hover:-translate-y-2 hover:scale-[1.02] hover:border-white/30 hover:shadow-[0_0_25px_rgba(255,255,255,0.18)]">
             <h3 className="text-xl font-semibold mb-3">Portfolio Website</h3>
             <p className="text-slate-300 leading-7">
-              A personal website to showcase my skills, projects, and contact
-              information in one place.
+              I created this portfolio website  with the help of online resources to showcase my skills, projects, and contact information in a clean and modern design.
             </p>
           </div>
 
           <div className="bg-white/5 border border-white/10 rounded-2xl p-6 
           transition-all duration-300 ease-in-out hover:-translate-y-2 hover:scale-[1.02] hover:border-white/30 hover:shadow-[0_0_25px_rgba(255,255,255,0.18)]">
-            <h3 className="text-xl font-semibold mb-3">Login Form UI</h3>
+            <h3 className="text-xl font-semibold mb-3">UI/UX Design</h3>
             <p className="text-slate-300 leading-7">
-              A simple login interface focused on clean design, readability,
-              and beginner-friendly frontend structure.
+              I Designed a simple UI/UX design projects to practice my design skills and create user-friendly interfaces.
             </p>
           </div>
         </div>
